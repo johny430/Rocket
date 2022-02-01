@@ -1,0 +1,10 @@
+﻿  Application.cpp
+F:\RocketEngine\RocketEngine\Engine\Utils\ResourseManager.h(11,2): warning C4091: static : пропускается слева от "ResourseManager", когда ни одна переменная не объявлена
+  Window.cpp
+  RocketEngine.cpp
+  Создание кода
+  4 of 575 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  RocketEngine.vcxproj -> F:\RocketEngine\RocketEngine\x64\Release\RocketEngine.exe
